@@ -1,0 +1,15 @@
+/* .logo-img {
+    position: relative;
+    object-fit: contain;
+    width: 200px;
+    height: 100px;
+} */
+
+.logo {
+    /* border: 2px black solid; */
+    width: 200px;
+    height: 50px;
+    background-image: url("../../../public/img/3.png");
+    background-size: cover;
+    background-position: center;
+}
