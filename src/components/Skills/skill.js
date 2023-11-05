@@ -32,11 +32,11 @@ export default function SkillList() {
         {id:{main:'bg-1', icon:'fab fa-react'}, title:'Social Deduction Discord Bot', img:"img/secret-hitler.png", 
             gif:"img/secret-h.gif", desc: "Built and marketed a successful Discord Bot with Node.js and Discord.js library \
             that hosts automated games on servers. Downloaded by 1500+ servers!",
-            demo: "https://google.com"},
-            {id:{main:'bg-4', icon:'fab fa-node-js'}, title:'Gifsmos', img: "img/gifsmos.png",
-                gif:"img/gifsmos.gif", desc: "A web application built in React.js, Redux and Typescript for creating animated GIFs of Desmos Formulas \
-                that can be shared with others.",
-                demo: "https://google.com"},
+            demo: "https://discord.com/oauth2/authorize?client_id=1133129369792020640&permissions=326417774672&scope=bot"},
+        {id:{main:'bg-4', icon:'fab fa-node-js'}, title:'Gifsmos', img: "img/gifsmos.png",
+            gif:"img/gifsmos.gif", desc: "A web application built in React.js, Redux and Typescript for creating animated GIFs of Desmos Formulas \
+            that can be shared with others.",
+            demo: "http://www.gifsmos.com/"},
         {id:{main:'bg-2', icon:'fab fa-node-js'}, title:'Pathfinder', img: "img/pathfinder.png",
             gif:"img/pathfinder.gif", desc: "A pathfinding algorithm visualizer built with React.js and CSS animations. \
             Allows users to place mazes and visualize Djikstra's, A*, DFS and BFS.",

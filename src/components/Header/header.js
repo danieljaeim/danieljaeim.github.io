@@ -46,7 +46,7 @@ export default function Header() {
                     </div>
                     <div className="ms-auto hidden lg:flex">
                         <a className="px-btn px-btn-theme" data-scroll-nav="4" target="_blank" 
-                        href="https://drive.google.com/file/d/1fUXXTINd8gVklVZncPBqpH4Cq1kVvKDz/view?usp=sharing">Resume</a>
+                        href="https://drive.google.com/file/d/1HWuWNZqHVPfRALPh7daRzr850iIRER9q/view?usp=sharing">Resume</a>
                     </div>
                 </div>
             </header>
