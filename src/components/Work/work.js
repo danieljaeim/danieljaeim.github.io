@@ -197,7 +197,7 @@ export default function Work() {
                                         software that is resilient, tested, and scalable to support developers at Amazon across time in being secure.
                                     </p>
                                     <div className="btn-bar">
-                                        <div className="px-btn px-btn-theme px_modal" onClick={() => setShowModal(1)}>2021 - 2023 </div>
+                                        <div className="px-btn px-btn-theme px_modal">2021 - 2023 </div>
                                     </div>
                                 </div>
                             </div>
@@ -219,7 +219,7 @@ export default function Work() {
                                         GIFs of complex math formulaes seamlessly.
                                     </p>
                                     <div className="btn-bar">
-                                        <div className="px-btn px-btn-theme px_modal" onClick={() => setShowModal(2)}>2019</div>
+                                        <div className="px-btn px-btn-theme px_modal">2019</div>
                                     </div>
                                 </div>
                             </div>
@@ -241,7 +241,7 @@ export default function Work() {
                                         such as React.js, Node.js and Bootstrap.
                                     </p>
                                     <div className="btn-bar">
-                                        <div className="px-btn px-btn-theme px_modal" onClick={() => setShowModal(3)}>2019 - 2020 </div>
+                                        <div className="px-btn px-btn-theme px_modal">2019 - 2020 </div>
                                     </div>
                                 </div>
                             </div>
