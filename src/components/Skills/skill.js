@@ -40,7 +40,7 @@ export default function SkillList() {
         {id:{main:'bg-2', icon:'fab fa-node-js'}, title:'Pathfinder', img: "img/pathfinder.png",
             gif:"img/pathfinder.gif", desc: "A pathfinding algorithm visualizer built with React.js and CSS animations. \
             Allows users to place mazes and visualize Djikstra's, A*, DFS and BFS.",
-            demo: "https://google.com"},
+            demo: "https://www.danieljaeim.com/AlGoggles"},
         {id:{main:'bg-3', icon:'fab fa-node-js'}, title:'Spotluck', img: "img/spotluck.png",
             gif:"img/spotluck.gif", desc: "A web application built with React and the Spotify API, to recommend new music to users, based on their top 100 listens.",
             demo: "https://google.com"},
