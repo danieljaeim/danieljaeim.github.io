@@ -19,7 +19,7 @@ function Footer() {
                         </div>
                     </div>
                     <div className="col-span-12 md:col-span-6 text-center md:text-right">
-                        <p className="m-0 text-white text-opacity-75">© 2023 copyright all right reserved by Daniel Im</p>
+                        <p className="m-0 text-white text-opacity-75">© 2023, Website built with React.js and Tailwind CSS</p>
                     </div>
                 </div>
             </div>

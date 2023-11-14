@@ -1,7 +1,7 @@
-import Krinky from './components/Origin/krinky'
+import Daniel from './components/Origin/Daniel'
 
 function App() {
-    return <Krinky/>;
+    return <Daniel/>;
 }
 
 export default App;

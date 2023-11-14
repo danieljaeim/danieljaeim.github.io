@@ -6,7 +6,7 @@ function Skill(props) {
     return (
         <>
             <div className="col-span-6">
-                <div className={props.id.main + " feature-box-03"}>
+                <div className={props.id.main + " feature-box-02"}>
                     <a href={props.demo} target="_blank">
                     <div className="overlay-box">
                         <img className="description-img" src={props.img}></img>
