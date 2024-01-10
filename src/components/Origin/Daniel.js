@@ -39,11 +39,8 @@ export default function Daniel() {
                     title: "Skills",
                     description: "System Design, Distributed Systems, Security",
                 },
-                {
-                    title: "Live Site",
-                    description: "Internal Service (not public).",
-                },
             ],
+            demo: "https://aws.amazon.com/security/"
         },
         {
             title: "Fullstack Coding Instructor",
@@ -66,11 +63,8 @@ export default function Daniel() {
                     title: "Langages",
                     description: "Python, Javascript, React.js, Unity",
                 },
-                {
-                    title: "Program Website",
-                    description: "https://www.thecoderschool.com/",
-                },
             ],
+            demo: "https://www.thecoderschool.com/"
         },
         {
             title: "Fullstack Engineer Internship",
@@ -93,11 +87,8 @@ export default function Daniel() {
                     title: "Langages",
                     description: "Javascript, React.js, Redux.js, Node.js, HTML, CSS",
                 },
-                {
-                    title: "Live URL",
-                    description: "www.gifsmos.com",
-                },
             ],
+            demo: "http://www.gifsmos.com"
         },
         {
             title: "Secret Hitler Discord Bot",
@@ -122,11 +113,8 @@ export default function Daniel() {
                     title: "Langages",
                     description: "Javascript, Node.js, Discord.js",
                 },
-                {
-                    title: "Invite Link",
-                    description: "https://discord.com/oauth2/authorize?client_id=1133129369792020640&permissions=326417774672&scope=bot",
-                },
             ],
+            demo: "https://discord.com/oauth2/authorize?client_id=1133129369792020640&permissions=326417774672&scope=bot"
         },
         {
             title: "Pathfinder Traversal Visualizer",
@@ -149,46 +137,8 @@ export default function Daniel() {
                     title: "Langages",
                     description: "Javascript, React.js",
                 },
-                {
-                    title: "Demo URL",
-                    description: "https://www.danieljaeim.com/AlGoggles",
-                },
             ],
-        },
-        {
-            title: "Website Design for Marketing Agency Startup 04",
-            description:
-                "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            subDescription:
-                "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-            images: [
-                "img/project-4.jpg",
-                "img/project-2.jpg",
-                "img/project-3.jpg",
-                "img/project-1F.jpg",
-            ],
-            details: [
-                {
-                    title: "Type",
-                    description: "Website",
-                },
-                {
-                    title: "Langages",
-                    description: "",
-                },
-                {
-                    title: "Platform",
-                    description: "WordPress",
-                },
-                {
-                    title: "Country",
-                    description: "USA",
-                },
-                {
-                    title: "Live URL",
-                    description: "www.example.com",
-                },
-            ],
+            demo: "https://www.danieljaeim.com/AlGoggles"
         },
     ];
 

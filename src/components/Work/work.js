@@ -54,6 +54,7 @@ function Project(props) {
                     </li>
                   );
                 })}
+                <a href={props.projectDetails.demo} target="_blank"> <p className="no-underline font-semibold">Demo Link: </p><p className="underline">{props.projectDetails.demo}</p></a>
               </ul>
             </div>
             <button className="px-close" onClick={props.closePopup}>
