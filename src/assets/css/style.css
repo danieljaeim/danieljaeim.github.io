@@ -25,7 +25,7 @@
 /* Buttons
 ------------------------------*/
 .px-btn {
-  @apply px-[20px] py-[10px] text-[14px] uppercase tracking-[2px] font-[500] inline-block ease-in duration-300;
+  @apply px-[15px] py-[15px] text-[14px] uppercase tracking-[2px] font-[500] inline-block ease-in duration-300;
 }
 
 .px-btn-theme {
@@ -75,11 +75,15 @@
 
 /* Header
 ------------------------------*/
+.main-header {
+  @apply bg-slate-50
+}
+
 .main-header .navbar li {
-  @apply px-[10px];
+  @apply px-[10px] sm:text-[10px] md:text-[12px] lg:text-[15px];
 }
 .main-header .navbar li a {
-  @apply px-[5px] font-[500] uppercase tracking-[2px] relative leading-[35px] inline-block text-slate-900 text-[15px] cursor-pointer;
+  @apply px-[5px] font-[500] uppercase tracking-[2px] relative leading-[35px] inline-block text-slate-900 cursor-pointer;
 }
 .main-header .navbar li a:after {
   @apply content-[''] absolute left-[auto] right-[0] bottom-[0] ease-in duration-300 w-[0] h-[2px] bg-orange-600;
@@ -165,7 +169,7 @@
 /* Feature Box
 ------------------------------*/
 .feature-box-01 {
-  @apply p-[20px] md:p-[30px] lg:p-[30px] border-2 border-slate-900 flex shadow-[0_0_0_0] shadow-slate-900 ease-in duration-300 hover:shadow-[5px_5px_0_0];
+  @apply p-[20px] sm:p-[30px] md:p-[30px] lg:p-[25px] border-2 border-slate-900 flex shadow-[0_0_0_0] shadow-slate-900 ease-in duration-300 hover:shadow-[5px_5px_0_0];
 }
 
 .feature-box-01 .icon {

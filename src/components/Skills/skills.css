@@ -1,8 +1,6 @@
 .overlay-box {
     position: relative;
     border: 5px black solid;
-    background-color: grey;
-    height: 300px;
 }
 
 .overlay-box:hover .description-box {
@@ -58,16 +56,16 @@
 .description-img {
     position: relative;
     opacity: 1;
+    width: 100%;
     height: 100%;
-    width: auto;
     object-fit: fill;
 }
 
 .description-gif {
     position: absolute;
     opacity: 0;
+    width: 100%;
     height: 100%;
-    width: auto;
     top: 0;
 }
 
