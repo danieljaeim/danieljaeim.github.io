@@ -46,6 +46,33 @@ export default function Daniel() {
             ],
         },
         {
+            title: "Fullstack Coding Instructor",
+            description:
+                "After completing my web development bootcamp in the Summer of 2019, I returned to Berkeley and realized so many could benefit from being exposed to STEM education earlier in life.",
+            subDescription:
+                "I proposed and got funding through UC Berkeley to work with a local afterschool program that teaches fun STEM curriculum to students. \
+                I worked closely with our education lead to develop weekly Python classes, website design project based learning modules, and helped high school students build websites " +
+                " so they wouldn't need to be surprised going into their first CS class in college.",
+            subsubDescription:
+                "By the end of my time at the program, several of my students ended up getting accepted into Berkeley's EECS Program, with many of them finding \
+                internship opportunities within their Freshman year.",
+            images: ["img/thecoderschool.jpg"],
+            details: [
+                {
+                    title: "Type",
+                    description: "Web Development Teacher",
+                },
+                {
+                    title: "Langages",
+                    description: "Python, Javascript, React.js, Unity",
+                },
+                {
+                    title: "Program Website",
+                    description: "https://www.thecoderschool.com/",
+                },
+            ],
+        },
+        {
             title: "Fullstack Engineer Internship",
             description:
                 "At Desmos, my hallmark project was productionalizing their open-source graphing calculator visualizer, Gifsmos.com.",
@@ -69,33 +96,6 @@ export default function Daniel() {
                 {
                     title: "Live URL",
                     description: "www.gifsmos.com",
-                },
-            ],
-        },
-        {
-            title: "Fullstack Coding Instructor",
-            description:
-                "After completing my web development bootcamp in the Summer of 2019, I returned to Berkeley and realized so many could benefit from being exposed to STEM education earlier in life.",
-            subDescription:
-                "I proposed and got funding through UC Berkeley to work with a local afterschool program that teaches fun STEM curriculum to students. \
-                I worked closely with our education lead to develop weekly Python classes, website design project based learning modules, and helped high school students build websites " +
-                " so they wouldn't need to be surprised going into their first CS class in college.",
-            subsubDescription:
-                "By the end of my time at the program, several of my students ended up getting accepted into Berkeley's EECS Program, with many of them finding \
-                internship opportunities within their Freshman year.",
-            images: ["/img/thecoderschool.jpg"],
-            details: [
-                {
-                    title: "Type",
-                    description: "Web Development Teacher",
-                },
-                {
-                    title: "Langages",
-                    description: "Python, Javascript, React.js, Unity",
-                },
-                {
-                    title: "Program Website",
-                    description: "https://www.thecoderschool.com/",
                 },
             ],
         },
