@@ -14,7 +14,7 @@ export default function About() {
                             <img className="mx-auto" src="img/aboutme-banner.png" title="Banner" alt="Banner" />
                         </div>
                         <div className="lg:col-span-6 lg:pl-12">
-                            <h3 className="font-[600] text-[26px] md:text-[40px] leading-[1.2] text-black mb-[25px]">I'm a Fullstack Software Developer with 3+ years of experience.</h3>
+                            <h3 className="font-[600] text-[26px] md:text-[40px] leading-[1.2] text-black mb-[25px]">I'm a Fullstack Software Developer with 2+ years of experience.</h3>
                             <p className="text-[16px] md:text-[18px]">I began developing websites out of my dorm room at UC Berkeley. Five years later, I've worked with
                             amazing people from around the world, creating web courses for schools and security systems at Amazon.</p>
                             <div className="grid grid-cols-12 pt-5">

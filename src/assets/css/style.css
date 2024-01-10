@@ -25,14 +25,11 @@
 /* Buttons
 ------------------------------*/
 .px-btn {
-  @apply px-[20px] py-[10px] text-[14px] uppercase tracking-[2px] font-[500] inline-block ease-in duration-300 cursor-pointer;
+  @apply px-[20px] py-[10px] text-[14px] uppercase tracking-[2px] font-[500] inline-block ease-in duration-300;
 }
 
 .px-btn-theme {
   @apply bg-orange-600 text-white shadow-[6px_6px_0_-1px] shadow-slate-900;
-}
-.px-btn-theme:hover {
-  @apply bg-slate-900 text-white shadow-[6px_6px_0_-1px] shadow-orange-600;
 }
 
 .px-btn-dark {
@@ -168,7 +165,7 @@
 /* Feature Box
 ------------------------------*/
 .feature-box-01 {
-  @apply p-[20px] md:p-[30px] lg:p-[40px] border-2 border-slate-900 flex shadow-[0_0_0_0] shadow-slate-900 ease-in duration-300 hover:shadow-[5px_5px_0_0];
+  @apply p-[20px] md:p-[30px] lg:p-[30px] border-2 border-slate-900 flex shadow-[0_0_0_0] shadow-slate-900 ease-in duration-300 hover:shadow-[5px_5px_0_0];
 }
 
 .feature-box-01 .icon {
